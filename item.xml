@@ -37,5 +37,24 @@
         <weight>1</weight>
         <gold>500</gold>
     </item>
-    <!-- You can add more elements and structure as needed -->
+    <item>
+        <title>Le fouet d'Emmanuel</title>
+        <rarity>Common</rarity>
+        <image>https://i.pinimg.com/564x/da/6b/74/da6b74b8d89c305ecb2e0dd9555bef26.jpg</image>
+        <damages>
+            <damage>
+                <dice>1d4</dice>
+                <type>Slashing</type>
+                <detail></detail>
+            </damage>
+        </damages>
+        <description></description>
+        <enhancement></enhancement>
+        <flavour>In convallis libero a augue hendrerit, ut porta felis molestie. Nulla blandit euismod nisi sed malesuada. Donec bibendum sagittis libero porttitor sodales. Vestibulum fermentum ex ac sagittis convallis.</flavour>
+        <item_type>melee weapon (martial, whip)</item_type>
+        <attunement></attunement>
+        <properties>Finesse, Reach</properties>
+        <weight>3</weight>
+        <gold>2</gold>
+    </item>
 </data>
