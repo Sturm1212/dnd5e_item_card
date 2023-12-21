@@ -20,7 +20,7 @@
         <enhancement>1</enhancement>
         <spells>
             <spell>
-                <name>Absorbs Elements</name>
+                <name>Absorb Elements</name>
                 <level>Level 1 Abjuration Spell</level>
                 <delay>Short Rest</delay>
             </spell>
