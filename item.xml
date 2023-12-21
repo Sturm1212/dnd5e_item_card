@@ -31,7 +31,7 @@
             </spell>
         </spells>
         <flavour>In convallis libero a augue hendrerit, ut porta felis molestie. Nulla blandit euismod nisi sed malesuada. Donec bibendum sagittis libero porttitor sodales. Vestibulum fermentum ex ac sagittis convallis.</flavour>
-        <type>Melee weapon (simple, dagger)</type>
+        <item_type>Melee weapon (simple, dagger)</item_type>
         <attunement>(Requires attunement by a paladin)</attunement>
         <properties>Finesse, Light, Range, Thrown</properties>
         <weight>Finesse, Light, Range, Thrown</weight>
