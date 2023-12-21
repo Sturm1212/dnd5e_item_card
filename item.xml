@@ -34,7 +34,7 @@
         <item_type>Melee weapon (simple, dagger)</item_type>
         <attunement>(Requires attunement by a paladin)</attunement>
         <properties>Finesse, Light, Range, Thrown</properties>
-        <weight>Finesse, Light, Range, Thrown</weight>
+        <weight>1</weight>
         <gold>500</gold>
     </item>
     <!-- You can add more elements and structure as needed -->
