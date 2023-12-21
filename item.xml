@@ -6,7 +6,7 @@
         <image>https://i.pinimg.com/564x/3f/3c/a5/3f3ca547a2b00d873fee4c34081dfb1e.jpg</image>
         <damages>
             <damage>
-                <dice>1d4+1</dice>
+                <dice>2d4+1</dice>
                 <type>Piercing</type>
                 <detail></detail>
             </damage>
