@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <item>
+        <title>Lorem Ipsum Dagger</title>
+        <rarity>Uncommon</rarity>
+        <image>https://i.pinimg.com/564x/3f/3c/a5/3f3ca547a2b00d873fee4c34081dfb1e.jpg</image>
+        <damages>
+            <damage>
+                <dice>1d4+1</dice>
+                <type>Piercing</type>
+                <detail></detail>
+            </damage>
+            <damage>
+                <dice>1d4</dice>
+                <type>Poison</type>
+                <detail>(conditional)</detail>
+            </damage>
+        </damages>
+        <description>Increases the wearer's Dexterity score to 18.</description>
+        <enhancement>1</enhancement>
+        <spells>
+            <spell>
+                <name>Absorbs Elements</name>
+                <level>Level 1 Abjuration Spell</level>
+                <delay>Short Rest</delay>
+            </spell>
+            <spell>
+                <name>Blink</name>
+                <level>Level 13 Transmutation</level>
+                <delay>Long Rest</delay>
+            </spell>
+        </spells>
+        <flavour>In convallis libero a augue hendrerit, ut porta felis molestie. Nulla blandit euismod nisi sed malesuada. Donec bibendum sagittis libero porttitor sodales. Vestibulum fermentum ex ac sagittis convallis.</flavour>
+        <type>Melee weapon (simple, dagger)</type>
+        <attunement>(Requires attunement by a paladin)</attunement>
+        <properties>Finesse, Light, Range, Thrown</properties>
+        <weight>Finesse, Light, Range, Thrown</weight>
+        <gold>500</gold>
+    </item>
+    <!-- You can add more elements and structure as needed -->
+</data>
