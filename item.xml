@@ -11,7 +11,7 @@
                 <detail></detail>
             </damage>
             <damage>
-                <dice>1d4</dice>
+                <dice>7d4</dice>
                 <type>Poison</type>
                 <detail>(conditional)</detail>
             </damage>
